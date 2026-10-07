@@ -3,6 +3,7 @@
 > **AI Studio–Based Cascading Delay Prediction and Dispatch Recommendation for a Rail Corridor Network**  
 > *Final Project for the Siemens Industry Readiness Program (SIRP)*  
 > **Author:** Aravind (Easwari Engineering College)
+> > **Note:** This project was developed as part of the **Siemens Industry Readiness Program** and is shared publicly as a personal portfolio project with permission. It is not an official Siemens product or endorsement.
 
 [![Altair AI Studio](https://img.shields.io/badge/Altair%20AI%20Studio-12.1-blue.svg)](https://altair.com/)
 [![Machine Learning](https://img.shields.io/badge/Model-Random%20Forest-brightgreen.svg)]()
@@ -161,5 +162,6 @@ Evaluated on the held-out **4,914-row test set** (30% split) in Altair AI Studio
 
 ## 📄 License & Attribution
 
-This project is licensed under the [MIT License](LICENSE).  
-Developed as part of the **Siemens Industry Readiness Program (SIRP)**.
+This project is licensed under the [MIT License](LICENSE).
+
+> **Note:** This project was developed as part of the **Siemens Industry Readiness Program (SIRP)** and is shared publicly as a personal portfolio project with permission. It is not an official Siemens product or endorsement.
