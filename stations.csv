@@ -1,0 +1,13 @@
+station_id,station_name,km_from_origin,num_platforms,is_junction
+S01,Central Jn,0,6,True
+S02,Riverside,17,5,False
+S03,Northgate,55,5,False
+S04,Millbrook,89,5,False
+S05,Eastfield,117,5,False
+S06,Harborview,144,4,False
+S07,Kingsford,184,2,False
+S08,Lakeside Jn,201,6,True
+S09,Summit,236,4,False
+S10,Fairview,257,4,False
+S11,Westbrook,274,3,False
+S12,Terminus,304,2,False

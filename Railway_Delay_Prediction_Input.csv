@@ -1,0 +1,6 @@
+day_of_week,is_destination,is_origin,is_rush_hour,is_weekend,km_from_origin,num_platforms,prev_stop_delay,sched_hour,station_id,stop_sequence,train_type,weather
+Monday,0,1,1,0,236,4,0.0,19,S09,0,Freight,Clear
+Monday,0,0,1,0,274,3,8.5,20,S11,2,Freight,Fog
+Tuesday,1,0,0,0,304,2,18.0,21,S12,3,Freight,Fog
+Wednesday,0,0,1,0,257,4,3.0,20,S10,1,Freight,Clear
+Thursday,1,0,0,0,304,2,32.0,21,S12,3,Freight,Clear

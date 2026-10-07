@@ -1,0 +1,18 @@
+# Non-final project workspace files
+*Certication*
+*Certification*
+*Badge*
+Duplicate_material_code_detection*
+loan_approval*
+SIRP_Program_Experience_Report*
+output.csv
+ai_studio_features_only.csv
+ai_studio_ready.csv
+railway_new_prediction_input.csv
+
+# OS and Editor artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
